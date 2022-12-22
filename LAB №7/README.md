@@ -3,7 +3,7 @@
 
 ### Task
 
-* Creation of TPM and printed circuit boards in Altium Designer
+* Створення ТПМ та друкованих плат у Altium Designer
 
 ### result
 
