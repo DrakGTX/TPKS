@@ -3,7 +3,7 @@
 
 ### Task
 
-* Development of schematic symbols in P-CAD
+* Розробка схемних символів у P-CAD
 
 ### result
 
