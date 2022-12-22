@@ -3,7 +3,7 @@
 
 ### Task
 
-* Creation of UGP and schematics in the Altium Designer environment
+* Створення УГП та принципових схем у середовищі Altium Designer
 
 ### result
 
