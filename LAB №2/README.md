@@ -3,7 +3,7 @@
 
 ### Task
 
-* Development of typical seating positions of components in P-CAD
+* Розробка типових посадочних місць компонентів у P-CAD
 
 ### result
 
