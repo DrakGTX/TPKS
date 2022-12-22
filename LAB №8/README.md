@@ -3,7 +3,7 @@
 
 ### Task
 
-* Creation of 3D models of single-section components
+* Створення 3D-моделей односекційних компонент у SolidWorks
 
 ### result
 
