@@ -3,7 +3,7 @@
 
 ### Task
 
-* Importing P-CAD projects into Altium Designer
+* Імпорт проектів P-CAD у Altium Designer
 
 ### result
 
