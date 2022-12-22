@@ -8,6 +8,6 @@
 ### result
 
 ![result](polarized_capacitor_pattern.png)
-![result](Capasitor_pattern.png)
+![result](capasitor_pattern.png)
 ![result](constant_resistor_pattern.png)
 ![result](npn_transistor_pattern.png)
