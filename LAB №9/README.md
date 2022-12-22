@@ -3,4 +3,4 @@
 
 ### Task
 
-* Creation of 3D models of multi-section components in SolidWorks
+* Створення 3D-моделей багатосекційних компонент у SolidWorks
