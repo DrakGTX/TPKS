@@ -6,4 +6,4 @@
 * Creation of 3D models of single-section components
 ### result
 
-* ![result]()
+* ![result](Resistor.png)
