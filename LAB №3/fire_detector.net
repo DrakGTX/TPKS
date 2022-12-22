@@ -1,10 +1,10 @@
-ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
+ACCEL_ASCII "C:\different\fire_detector.net"
 
 (asciiHeader 
   (asciiVersion 3 0)
   (timeStamp 2022 11 13 23 23 23)
   (program "P-CAD 2006 Schematic" "19.00.6667")
-  (copyright "Copyright © 1992-2006 Altium Limited")
+  (copyright "Copyright ¬© 1992-2006 Altium Limited")
   (fileAuthor "")
   (headerString "")
   (fileUnits mm)
@@ -240,8 +240,8 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
     (attr "Value" "" (pt -11.0 11.0) (isVisible True) (textStyleRef "(Default)") )
     (attr "RefDes" "" (pt -8.0 17.0) (isVisible True) (justify Center) (textStyleRef "(PartStyle)") )
   )
-  (symbolDef " ŒÕƒ ›À≈ “–ŒÀ_1"
-    (originalName " ŒÕƒ ›À≈ “–ŒÀ")
+  (symbolDef "√ä√é√ç√Ñ √ù√ã√Ö√ä√í√ê√é√ã_1"
+    (originalName "√ä√é√ç√Ñ √ù√ã√Ö√ä√í√ê√é√ã")
     (pin (pinNum 2) (pt 0.0 -5.0) (rotation 270.0) (isFlipped True) (pinLength 2.5) 
       (pinDisplay (dispPinDes False) ) 
       (pinDes (text (pt 0.0 -6.651) "2" (textStyleRef "(PinStyle)") (rotation 270.0) (isFlipped True) (extent 1.96214 3.04561) )
@@ -487,7 +487,7 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
   (compDef "+12B_1"
     (originalName "+12B")
     (compHeader 
-      (sourceLibrary " ŒÃÃ”“ ›À≈Ã≈Õ“€-MM.LIB")
+      (sourceLibrary "√ä√é√å√å√ì√í √ù√ã√Ö√å√Ö√ç√í√õ-MM.LIB")
       (compType Power)
       (numPins 1)
       (numParts 1)
@@ -501,7 +501,7 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
   (compDef "CE6032-C_1"
     (originalName "CE6032-C")
     (compHeader 
-      (sourceLibrary " ŒÕƒ≈Õ—¿“Œ–€-MM.LIB")
+      (sourceLibrary "√ä√é√ç√Ñ√Ö√ç√ë√Ä√í√é√ê√õ-MM.LIB")
       (numPins 2)
       (numParts 1)
       (alts (ieeeAlt False) (deMorganAlt False))
@@ -510,7 +510,7 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
     )
     (compPin "1" (pinName "1") (partNum 1) (symPinNum 1) (gateEq 1) (pinEq 0) )
     (compPin "2" (pinName "2") (partNum 1) (symPinNum 2) (gateEq 1) (pinEq 0) )
-    (attachedSymbol (partNum 1) (altType Normal) (symbolName " ŒÕƒ ›À≈ “–ŒÀ") )
+    (attachedSymbol (partNum 1) (altType Normal) (symbolName "√ä√é√ç√Ñ √ù√ã√Ö√ä√í√ê√é√ã") )
     (attachedPattern (patternNum 1) (patternName "CE6032_C")
       (numPads 2)
       (padPinMap 
@@ -519,8 +519,8 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
       )
     )
   )
-  (compDef " “312_1"
-    (originalName " “312")
+  (compDef "√ä√í312_1"
+    (originalName "√ä√í312")
     (compHeader 
       (sourceLibrary "TRANZISTOR.LIB")
       (numPins 3)
@@ -532,7 +532,7 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
     (compPin "E" (pinName "E") (partNum 1) (symPinNum 1) (gateEq 1) (pinEq 0) )
     (compPin "B" (pinName "B") (partNum 1) (symPinNum 2) (gateEq 1) (pinEq 0) )
     (attachedSymbol (partNum 1) (altType Normal) (symbolName "N-P-N") )
-    (attachedPattern (patternNum 1) (patternName " “312")
+    (attachedPattern (patternNum 1) (patternName "√ä√í312")
       (numPads 3)
       (padPinMap 
         (padNum  1) (compPinRef "K")
@@ -561,8 +561,8 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
       )
     )
   )
-  (compDef " “3107≈_1"
-    (originalName " “3107≈")
+  (compDef "√ä√í3107√Ö_1"
+    (originalName "√ä√í3107√Ö")
     (compHeader 
       (sourceLibrary "TRANZISTOR.LIB")
       (numPins 3)
@@ -584,8 +584,8 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
       )
     )
   )
-  (compDef " ƒ522¿_1"
-    (originalName " ƒ522¿")
+  (compDef "√ä√Ñ522√Ä_1"
+    (originalName "√ä√Ñ522√Ä")
     (compHeader 
       (sourceLibrary "DIOD.LIB")
       (numPins 2)
@@ -596,7 +596,7 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
     (compPin "1" (pinName "A") (partNum 1) (symPinNum 1) (gateEq 1) (pinEq 0) (pinType Passive) )
     (compPin "2" (pinName "K") (partNum 1) (symPinNum 2) (gateEq 1) (pinEq 0) (pinType Passive) )
     (attachedSymbol (partNum 1) (altType Normal) (symbolName "DIODE") )
-    (attachedPattern (patternNum 1) (patternName " ƒ521(522)")
+    (attachedPattern (patternNum 1) (patternName "√ä√Ñ521(522)")
       (numPads 2)
       (padPinMap 
         (padNum  1) (compPinRef "2")
@@ -646,8 +646,8 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
       )
     )
   )
-  (compDef " ƒ503¿_1"
-    (originalName " ƒ503¿")
+  (compDef "√ä√Ñ503√Ä_1"
+    (originalName "√ä√Ñ503√Ä")
     (compHeader 
       (sourceLibrary "DIOD.LIB")
       (numPins 2)
@@ -658,7 +658,7 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
     (compPin "A" (pinName "A") (partNum 1) (symPinNum 1) (gateEq 1) (pinEq 0) )
     (compPin "K" (pinName "K") (partNum 1) (symPinNum 2) (gateEq 1) (pinEq 0) )
     (attachedSymbol (partNum 1) (altType Normal) (symbolName "DIODE") )
-    (attachedPattern (patternNum 1) (patternName " ƒ503¿")
+    (attachedPattern (patternNum 1) (patternName "√ä√Ñ503√Ä")
       (numPads 2)
       (padPinMap 
         (padNum  1) (compPinRef "A")
@@ -666,8 +666,8 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
       )
     )
   )
-  (compDef " “608¡_1"
-    (originalName " “608¡")
+  (compDef "√ä√í608√Å_1"
+    (originalName "√ä√í608√Å")
     (compHeader 
       (sourceLibrary "TRANZISTOR.LIB")
       (numPins 3)
@@ -679,7 +679,7 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
     (compPin "3" (pinName "K") (partNum 1) (symPinNum 3) (gateEq 1) (pinEq 0) )
     (compPin "1" (pinName "B") (partNum 1) (symPinNum 2) (gateEq 1) (pinEq 0) )
     (attachedSymbol (partNum 1) (altType Normal) (symbolName "N-P-N") )
-    (attachedPattern (patternNum 1) (patternName " “605")
+    (attachedPattern (patternNum 1) (patternName "√ä√í605")
       (numPads 3)
       (padPinMap 
         (padNum  1) (compPinRef "2")
@@ -688,8 +688,8 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
       )
     )
   )
-  (compDef "¿À307 Ã_1"
-    (originalName "¿À307 Ã")
+  (compDef "√Ä√ã307√ä√å_1"
+    (originalName "√Ä√ã307√ä√å")
     (compHeader 
       (sourceLibrary "INDICATOR.LIB")
       (numPins 2)
@@ -708,10 +708,10 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
       )
     )
   )
-  (compDef "–›—-64_1"
-    (originalName "–›—-64")
+  (compDef "√ê√ù√ë-64_1"
+    (originalName "√ê√ù√ë-64")
     (compHeader 
-      (sourceLibrary " ŒÃÃ”“ ›À≈Ã≈Õ“€-MM.LIB")
+      (sourceLibrary "√ä√é√å√å√ì√í √ù√ã√Ö√å√Ö√ç√í√õ-MM.LIB")
       (numPins 5)
       (numParts 2)
       (composition Heterogeneous)
@@ -816,39 +816,39 @@ ACCEL_ASCII "C:\≤Ì¯Â\fire_detector.net"
     (patternName "CE6032_C")
   )
   (compInst "VD1"
-    (compRef "¿À307 Ã_1")
-    (originalName "¿À307 Ã")
+    (compRef "√Ä√ã307√ä√å_1")
+    (originalName "√Ä√ã307√ä√å")
     (patternName "LED-5MM")
   )
   (compInst "VD2"
-    (compRef " ƒ522¿_1")
-    (originalName " ƒ522¿")
-    (patternName " ƒ521(522)")
+    (compRef "√ä√Ñ522√Ä_1")
+    (originalName "√ä√Ñ522√Ä")
+    (patternName "√ä√Ñ521(522)")
   )
   (compInst "VD3"
-    (compRef " ƒ503¿_1")
-    (originalName " ƒ503¿")
-    (patternName " ƒ503¿")
+    (compRef "√ä√Ñ503√Ä_1")
+    (originalName "√ä√Ñ503√Ä")
+    (patternName "√ä√Ñ503√Ä")
   )
   (compInst "K1"
-    (compRef "–›—-64_1")
-    (originalName "–›—-64")
+    (compRef "√ê√ù√ë-64_1")
+    (originalName "√ê√ù√ë-64")
     (patternName "RES64")
   )
   (compInst "VT1"
-    (compRef " “3107≈_1")
-    (originalName " “3107≈")
+    (compRef "√ä√í3107√Ö_1")
+    (originalName "√ä√í3107√Ö")
     (patternName "TO-92-4")
   )
   (compInst "VT2"
-    (compRef " “312_1")
-    (originalName " “312")
-    (patternName " “312")
+    (compRef "√ä√í312_1")
+    (originalName "√ä√í312")
+    (patternName "√ä√í312")
   )
   (compInst "VT3"
-    (compRef " “608¡_1")
-    (originalName " “608¡")
-    (patternName " “605")
+    (compRef "√ä√í608√Å_1")
+    (originalName "√ä√í608√Å")
+    (patternName "√ä√í605")
   )
   (compInst "R6"
     (compRef "3006W_1")
