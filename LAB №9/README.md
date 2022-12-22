@@ -7,4 +7,4 @@
 
 ### result
 
-* ![result](Transitor.png)
+* ![result](Transistor.png)
