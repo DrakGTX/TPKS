@@ -3,7 +3,7 @@
 
 ### Task
 
-* Development of the topology of the printed circuit board in P-CAD
+* Розробка топології друкованої плати в P-CAD
 
 ### result
 
