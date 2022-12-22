@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Vova</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### Task
+### Tasks
 - LAB № 1. Розробка схемних символів у P-CAD
 - LAB № 2. Розробка типових посадочних місць компонентів у P-CAD
 - LAB № 3. Розробка принципових схем пристроїв у P-CAD
