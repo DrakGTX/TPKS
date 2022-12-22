@@ -3,7 +3,7 @@
 
 ### Task
 
-* Development of schematic diagrams of devices in P-CAD
+* Розробка принципових схем пристроїв у P-CAD
 
 ### result
 
