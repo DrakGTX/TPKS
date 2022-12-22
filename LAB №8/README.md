@@ -1,5 +1,5 @@
 # P-Cad
-# Kovalenko Maksim
+# Petikov Vova
 
 ### Task
 
